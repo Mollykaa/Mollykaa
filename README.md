@@ -1,4 +1,4 @@
-<h1 align="center">Vesethmollyka Var</h1>
+<h1 align="center">Hi! I'm Mollyka</h1>
 
 <p align="center">
   <b>Business Analyst · Data Analytics · Financial Modelling · Process Automation</b><br>
